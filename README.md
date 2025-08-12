@@ -1,4 +1,4 @@
-# Enhanced Addressables Loader
+# ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) Enhanced Addressables Loader
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/llarean/enhanced-addressables-loader/blob/main/LICENSE.md)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
