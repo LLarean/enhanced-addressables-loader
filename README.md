@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/llarean/enhanced-addressables-loader/blob/main/LICENSE.md)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
+[![CodeFactor](https://www.codefactor.io/repository/github/llarean/enhanced-addressables-loader/badge)](https://www.codefactor.io/repository/github/llarean/enhanced-addressables-loader)
 ![development](https://img.shields.io/badge/Development-Active-brightgreen.svg)
 
 ⚠️ **This project is currently in active development and has not been thoroughly tested. Use at your own risk in production environments.**
