@@ -1,0 +1,36 @@
+{
+  "name": "com.llarean.enhanced-addressables-loader",
+  "version": "0.0.1",
+  "displayName": "Enhanced Addressables Loader",
+  "description": "Advanced Addressables content loader with progress tracking, cancellation support, and improved error handling.",
+  "unity": "2021.3",
+  "keywords": [
+    "addressables",
+    "download",
+    "async",
+    "unitask",
+    "progress",
+    "cancellation"
+  ],
+  "author": {
+    "name": "LLarean",
+    "email": "llarean@ya.ru",
+    "url": "https://github.com/LLarean"
+  },
+  "dependencies": {
+    "com.unity.addressables": "2.5.0",
+    "com.cysharp.unitask": "2.5.10"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Usage Example",
+      "description": "Shows how to use the Enhanced Addressables Loader",
+      "path": "Samples~/BasicUsage"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llarean/enhanced-addressables-loader.git"
+  },
+  "license": "MIT"
+}

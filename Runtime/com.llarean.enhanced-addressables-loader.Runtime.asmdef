@@ -1,0 +1,24 @@
+{
+    "name": "com.llarean.enhanced-addressables-loader.Runtime",
+    "rootNamespace": "EnhancedAddressables",
+    "references": [
+        "Unity.Addressables",
+        "UniTask",
+        "Unity.ResourceManager"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.unitask",
+            "expression": "2.5.10",
+            "define": "UNITASK_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
