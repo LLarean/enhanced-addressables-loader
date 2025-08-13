@@ -1,12 +1,14 @@
 # ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) Enhanced Addressables Loader
 
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/llarean/enhanced-addressables-loader/blob/main/LICENSE.md)
+![status](https://img.shields.io/badge/Status-On_Hold-yellow.svg)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/llarean/enhanced-addressables-loader)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/llarean/enhanced-addressables-loader/blob/main/LICENSE.md)
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
 [![CodeFactor](https://www.codefactor.io/repository/github/llarean/enhanced-addressables-loader/badge)](https://www.codefactor.io/repository/github/llarean/enhanced-addressables-loader)
-![development](https://img.shields.io/badge/Development-Active-brightgreen.svg)
 
-⚠️ **This project is currently in active development and has not been thoroughly tested. Use at your own risk in production environments.**
+⚠️ **The project is frozen**  
+~~This project is currently in active development and has not been thoroughly tested. Use at your own risk in production environments.~~
 
 **Enhanced Addressables Loader** is an advanced Unity package for downloading Addressables content with enhanced features like progress tracking, cancellation support, and robust error handling.
 
