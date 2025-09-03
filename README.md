@@ -1,7 +1,6 @@
 # ![unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) Enhanced Addressables Loader
 
-![status](https://img.shields.io/badge/Status-On_Hold-yellow.svg)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://github.com/llarean/enhanced-addressables-loader)
+[![Support](https://img.shields.io/badge/support-maintenance_mode-orange)](https://github.com/llarean/unity-playerprefs-database/graphs/commit-activity)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/llarean/enhanced-addressables-loader/blob/main/LICENSE.md)
 [![Unity](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
